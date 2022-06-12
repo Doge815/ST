@@ -121,7 +121,7 @@ static const char *colorname[] = {
 	"#cccccc",
 	"#555555",
 	"gray90", /* default foreground colour */
-	"#1d1f21", /* default background colour */
+	"black", /* default background colour */
 };
 
 
